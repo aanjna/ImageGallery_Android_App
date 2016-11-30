@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ImageGallery</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/p</item>
+        <item>@drawable/s</item>
+        <item>@drawable/t</item>
+        <item>@drawable/r</item>
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+    </string-array>
+</resources>
